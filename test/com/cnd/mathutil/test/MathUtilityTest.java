@@ -42,7 +42,7 @@ public class MathUtilityTest {
         assertEquals(6, MathUtility.getFactorial(3));  
         assertEquals(2, MathUtility.getFactorial(2));
         assertEquals(1, MathUtility.getFactorial(1));
-        assertEquals(0, MathUtility.getFactorial(0));
+        assertEquals(1, MathUtility.getFactorial(0));
              
          
         

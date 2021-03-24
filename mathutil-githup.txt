@@ -1,0 +1,7 @@
+DOCKER"ảo hóa"
+thực hiện cho githup check xanh đỏ
+
+
+thực hiện
+Vào Actions
+vào set up workflows

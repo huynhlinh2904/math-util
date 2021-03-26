@@ -1,7 +1,22 @@
 DOCKER"ảo hóa"
 thực hiện cho githup check xanh đỏ
 
-
+https://github.com/doit-now/ci-actions-ant-jdk8
 thực hiện
 Vào Actions
 vào set up workflows
+Start to seve
+
+đối với dev : quan trọng
+src
+build.implorxml
+Junit
+
+sửa code, fix bug sinh ra bug mới(có thể)
+xanh đỏ--> code dag xanh thì vẫn xanh nếu ko sửa code
+	==> sửa code , thêm code {Xanh ?}
+
+REGIZESSION TEST
+
+RECURSION gọi lại chính mình vs quy mô nhỏ hơn
+StackOverfollow là
